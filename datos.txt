@@ -1,2 +1,8 @@
 nombre
 apellidos
+carlos
+serrano
+mana
+compra
+medellin cucuta 
+cali pachanguero
